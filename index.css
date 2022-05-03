@@ -52,7 +52,7 @@ button:hover{
 .color-acento{ color:rgb(226, 43, 202); }
 
 header{
-    background-color: rgb(233, 161, 161);
+    background-color: rgb(2, 53, 5);
     
 }
 
@@ -120,7 +120,7 @@ header a:hover{
 }
 
 #nuestros{
-    background-color: rgb(30,30,30);
+    background-image: url("https://wallpaperaccess.com/full/1723542.jpg");
     color: white;
     text-align: center;
 }
@@ -162,7 +162,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/full-stack.jpg");
+    ,url("");
 }
 
 .carta:nth-child(3){
@@ -171,7 +171,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url("media/python.jpg");
+    ,url("");
 
 }
 
@@ -193,9 +193,9 @@ header a:hover{
     text-align: center;
     background-color: rgb(65, 4, 4);
     color: white;
-    height: 80vh;
-    background-image: url("https://cdn.pixabay.com/photo/2017/05/18/19/09/retro-2324475_1280.jpg");
-
+    height: 20vh;
+    background-image: url("https://m.media-amazon.com/images/I/61uLl2YAbRL._AC_SX466_.jpg");
+    
 }
 
 #final h2{
@@ -329,7 +329,7 @@ footer .container{
     }
 
     #caracteristicas{
-        background-image: url("https://crehana-blog.s3.amazonaws.com/media/filer_public/67/83/67838479-acac-42ca-93c9-683179c364a1/frase-vintage1.png");
+        background-image: url("https://cdn.pixabay.com/photo/2017/05/18/19/09/retro-2324475_1280.jpg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
         background-position: calc(100vw - 500px) 120px;
@@ -344,11 +344,11 @@ footer .container{
     }
 
     #final h2{
-        font-size: 5em;
+        font-size: 2em;
     }
 
     #final button{
-        font-size: 2em;
+        font-size: 1em;
     }
 
     footer .container{
